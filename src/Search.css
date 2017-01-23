@@ -1,0 +1,8 @@
+.search {
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+}
+
+.search > .form-group {
+  margin-bottom: 0;
+}

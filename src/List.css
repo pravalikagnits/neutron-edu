@@ -1,0 +1,28 @@
+ul.list {
+  margin: 0;
+  padding: 0 10px;
+  list-style-type: none;
+}
+
+ul.list > li {
+  padding: 10px;
+  cursor: pointer;
+}
+
+ul.list > li + li {
+  border-top: 1px solid #e5e5e5;
+}
+
+ul.list > li:even {
+  background-color:
+}
+
+ul.list > li > p {
+  margin: 0;
+  font-size: smaller;
+  color: #666;
+}
+
+ul.list > li > p:first-child {
+  margin-top: 2px;
+}
